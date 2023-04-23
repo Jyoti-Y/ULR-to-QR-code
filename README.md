@@ -1,1 +1,2 @@
-# ULR-to-QR-code
+#pip install qrcode
+#pip install tk
